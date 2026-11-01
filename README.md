@@ -43,10 +43,10 @@ I am a **Python & Odoo ERP Engineer** with extensive experience architecting, cu
 
 Here are some of the flagship open-source enterprise modules I have engineered:
 
-#### 1. 📂 [Odoo Google Drive Cloud Integration](https://github.com/Abdurrehman547/odoo-google-drive-integration)
+#### 1. 📂 [Odoo Google Drive Cloud Integration](https://github.com/Abdurrehman547/odoo-enterprise-integrations/tree/main/google_drive_integration)
 > Seamless Google Drive synchronization inside Odoo. Built with OAuth 2.0 Web Application flow, automated folder creation per contact/deal, direct document upload wizard, and instant shareable preview links.
 
-#### 2. 📦 [Odoo Dropbox Cloud Storage Connector](https://github.com/Abdurrehman547/odoo-dropbox-integration)
+#### 2. 📦 [Odoo Dropbox Cloud Storage Connector](https://github.com/Abdurrehman547/odoo-enterprise-integrations/tree/main/dropbox_integration)
 > High-speed cloud backup and document management for Odoo records. Supports automated directory tree mapping for CRM leads and partners with token auto-refresh.
 
 #### 3. ⏱️ [Odoo Timesheet & Task Knowledge Flow](https://github.com/Abdurrehman547)
